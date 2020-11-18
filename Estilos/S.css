@@ -1,0 +1,22 @@
+*{
+    background: black;
+    color: white;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 35px;
+}
+
+.Pr{
+    color: red;
+    display: inline;
+    background: red;
+    border-radius: 10px;
+    transition: 2s;
+}
+
+.Pr:hover{
+    font-size: 60px;
+    color: white;
+}

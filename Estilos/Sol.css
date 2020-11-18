@@ -1,0 +1,29 @@
+*{
+    background: black;
+    color: white;
+}
+
+p{
+    font-size: 30px;
+}
+
+b{
+    font-size: 25px;
+    color: red;
+    background: red;
+    border-radius: 20px;
+    font-family: cursive;
+    transition: .3s;
+}
+
+b:hover{
+    font-size: 30px;
+    color: red;
+    background: black;
+}
+
+
+
+.a1 , .a2 , a{
+    font-size: 20px;
+}
